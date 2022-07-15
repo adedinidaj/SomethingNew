@@ -1,0 +1,16 @@
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\TryingSomething.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\TryingSomething.pdb
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\WebDriver.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\WebDriver.Support.dll
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DM4\source\repos\TryingSomething\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DM4\source\repos\TryingSomething\obj\Debug\TryingSomething.csproj.AssemblyReference.cache
+C:\Users\DM4\source\repos\TryingSomething\obj\Debug\TryingSomething.csproj.CoreCompileInputs.cache
+C:\Users\DM4\source\repos\TryingSomething\obj\Debug\TryingSomething.csproj.CopyComplete
+C:\Users\DM4\source\repos\TryingSomething\obj\Debug\TryingSomething.dll
+C:\Users\DM4\source\repos\TryingSomething\obj\Debug\TryingSomething.pdb
